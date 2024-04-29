@@ -86,10 +86,10 @@ button {
   
   @-webkit-keyframes glow {
     from {
-      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #00a1e6, 0 0 40px #0096e6, 0 0 50px #002ae6, 0 0 60px #0073e6, 0 0 70px #0068e6;
     }
     to {
-      text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+      text-shadow: 0 0 20px #fff, 0 0 30px #4de4ff, 0 0 40px #4da9ff, 0 0 50px #4db2ff, 0 0 60px #4de4ff, 0 0 70px #4dd5ff, 0 0 80px #4db8ff;
     }
   }
 
